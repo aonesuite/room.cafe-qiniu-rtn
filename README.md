@@ -26,6 +26,6 @@
 https://www.qiniu.com/products/rtn
 https://doc.qnsdk.com/rtn/web
 
-### 白板
+### Whiteboard
 https://developer.netless.link/docs/javascript/guide/js-sdk/ <br/>
 https://netless.link/
